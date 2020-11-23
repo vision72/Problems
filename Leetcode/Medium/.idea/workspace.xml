@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1d2379d-ed47-454c-89b7-c116dc81040d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AddTwoNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/AddTwoNumbers.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ki4DfB6GN7MbJDIDPmbBURA2k2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AddTwoNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Medium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AddTwoNumbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AddTwoNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1d2379d-ed47-454c-89b7-c116dc81040d" name="Default Changelist" comment="" />
+      <created>1606169960156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606169960156</updated>
+      <workItem from="1606169965557" duration="1119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="27" width="1071" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606170493041">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="104" y="27" width="1071" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.735@0.23.1280.735" timestamp="1606170493041" />
+    <state x="428" y="151" key="FileChooserDialogImpl" timestamp="1606170674655">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="428" y="151" key="FileChooserDialogImpl/0.23.1280.735@0.23.1280.735" timestamp="1606170674655" />
+    <state width="1238" height="183" key="GridCell.Tab.0.bottom" timestamp="1606171190075">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1606171190075" />
+    <state width="1238" height="183" key="GridCell.Tab.0.center" timestamp="1606171190074">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1606171190074" />
+    <state width="1238" height="183" key="GridCell.Tab.0.left" timestamp="1606171190073">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1606171190073" />
+    <state width="1238" height="183" key="GridCell.Tab.0.right" timestamp="1606171190075">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="1238" height="183" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1606171190075" />
+    <state x="149" y="29" key="SettingsEditor" timestamp="1606170712479">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="149" y="29" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1606170712479" />
+    <state x="333" y="223" key="com.intellij.ide.util.TipDialog" timestamp="1606169969358">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="333" y="223" key="com.intellij.ide.util.TipDialog/0.23.1280.735@0.23.1280.735" timestamp="1606169969358" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Medium$AddTwoNumbers.coverage" NAME="AddTwoNumbers Coverage Results" MODIFIED="1606171151226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
